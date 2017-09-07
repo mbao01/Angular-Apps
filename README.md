@@ -1,2 +1,3 @@
 # Angular-Apps
-Beautiful angular projects
+Basic and Beautiful projects in Angular
+- ***Stopwatch***
